@@ -1,5 +1,6 @@
 ![image](https://github.com/Xiaopingliu2023/2022.0037/assets/152821419/da56278a-6964-493f-9e41-92372fff0323)
 # 2022.0037
+Cost-Effective Acquisition of First-Party Data for Business Analytics
 Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
