@@ -8,19 +8,12 @@ To cite the contents of this repository, please cite both the paper and this rep
 Below is the BibTex for citing this snapshot of the repository.
 ```
 @article{LiuLi2023,
-
   author =        {Xiaoping Liu and Xiao-Bai Li},
-  
   publisher =     {INFORMS Journal on Computing},
-  
   title =         {Cost-Effective Acquisition of First-Party Data for Business Analytics},
-  
   year =          {2023},
-  
   doi =           {10.1287/ijoc.2022.0037.cd},
-  
   url =           {https://github.com/INFORMSJoC/2022.0037},
-  
 }  
 ```
 Paper Title: Cost-Effective Acquisition of First-Party Data for Business Analytics
