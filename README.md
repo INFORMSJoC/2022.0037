@@ -39,7 +39,7 @@ A. Data files are included in the same folder along with the relevant code files
 
 - Instructions to run our programs and reproduce the results in the paper:
 
-- To reproduce the results in Figures 1 and 2 in the paper:
+### To reproduce the results in Figures 1 and 2 in the paper:
 
  Open the folder named ‘music’ and run the R files in the following order:
 
@@ -53,7 +53,7 @@ A. Data files are included in the same folder along with the relevant code files
 
 `music_DA_10.R` (which outputs an Excel file with the results for Figure 2)
 
-C.2. To reproduce the results in Figures 3 and 4 in the paper:
+### To reproduce the results in Figures 3 and 4 in the paper:
 
 Open the folder named ‘blackfriday’ and run the R files in the following order:
 
