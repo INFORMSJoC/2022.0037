@@ -19,9 +19,9 @@ Below is the BibTex for citing this snapshot of the repository.
   url =           {https://github.com/INFORMSJoC/2022.0037},
 } 
 ```
-Paper Title: Cost-Effective Acquisition of First-Party Data for Business Analytics
 
-INFORMS Journal on Computing
+## Setup
+
 
 A. Data files are included in the same folder along with the relevant code files.
 
@@ -40,6 +40,8 @@ rpart
 openxlsx2
 
 reshape2
+
+## Replicating
 
 C. Instructions to run our programs and reproduce the results in the paper:
 
