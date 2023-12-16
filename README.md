@@ -14,7 +14,7 @@ Below is the BibTex for citing this snapshot of the repository.
   year =          {2023},
   doi =           {10.1287/ijoc.2022.0037.cd},
   url =           {https://github.com/INFORMSJoC/2022.0037},
-}  
+} 
 ```
 Paper Title: Cost-Effective Acquisition of First-Party Data for Business Analytics
 
