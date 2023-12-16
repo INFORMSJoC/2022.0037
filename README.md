@@ -33,23 +33,15 @@ A. Data files are included in the same folder along with the relevant code files
 
 - Also, install the following R packages before running our programs:
 
-nloptr
-
-dplyr
-
-rpart
-
-openxlsx2
-
-reshape2
+`nloptr` `dplyr` `rpart` `openxlsx2` `reshape2`
 
 ## Replicating
 
-C. Instructions to run our programs and reproduce the results in the paper:
+- Instructions to run our programs and reproduce the results in the paper:
 
-C.1. To reproduce the results in Figures 1 and 2 in the paper:
+- To reproduce the results in Figures 1 and 2 in the paper:
 
-Open the folder named ‘music’ and run the R files in the following order:
+ Open the folder named ‘music’ and run the R files in the following order:
 
 `music_DA_base01.R`
 
@@ -65,14 +57,14 @@ C.2. To reproduce the results in Figures 3 and 4 in the paper:
 
 Open the folder named ‘blackfriday’ and run the R files in the following order:
 
-Friday_DA_base01.R
+`Friday_DA_base01.R`
 
-Friday_DA_base02.R
+`Friday_DA_base02.R`
 
-Friday_DA_base03.R
+`Friday_DA_base03.R`
 
-Friday_DA_05.R (which outputs an Excel file with the results for Figure 3)
+`Friday_DA_05.R` (which outputs an Excel file with the results for Figure 3)
 
-Friday_DA_10.R (which outputs an Excel file with the results for Figure 4)
+`Friday_DA_10.R` (which outputs an Excel file with the results for Figure 4)
 
 For more updated info, please check https://github.com/Xiaopingliu2023/ijoc02
