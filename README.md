@@ -40,7 +40,6 @@ A. Data files are included in the same folder along with the relevant code files
 - Instructions to run our programs and reproduce the results in the paper:
 
 ### To reproduce the results in Figures 1 and 2 in the paper:
-
  Open the folder named ‘music’ and run the R files in the following order:
 
 `music_DA_base01.R`
