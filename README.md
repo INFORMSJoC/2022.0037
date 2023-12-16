@@ -23,13 +23,10 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Setup
 
 
-A. Data files are included in the same folder along with the relevant code files.
+A. 
 
 ### Install dependencies
 
-
-
-- Instructions for installing dependent software and packages:
 
 - Our programs are written in R and run in RStudio. RStudio must be installed in order to run our programs.
 
@@ -39,8 +36,7 @@ A. Data files are included in the same folder along with the relevant code files
 
 ## Replicating
 
-
-- Instructions to run our programs and reproduce the results in the paper:
+- Data files are included in the same folder along with the relevant code files.
 
 
 ### To reproduce the results in Figures 1 and 2 in the paper:
