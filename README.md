@@ -27,6 +27,8 @@ A. Data files are included in the same folder along with the relevant code files
 
 ### Install dependencies
 
+
+
 - Instructions for installing dependent software and packages:
 
 - Our programs are written in R and run in RStudio. RStudio must be installed in order to run our programs.
@@ -37,9 +39,12 @@ A. Data files are included in the same folder along with the relevant code files
 
 ## Replicating
 
+
 - Instructions to run our programs and reproduce the results in the paper:
 
 ### To reproduce the results in Figures 1 and 2 in the paper:
+
+ 
  Open the folder named ‘music’ and run the R files in the following order:
 
 `music_DA_base01.R`
@@ -53,6 +58,8 @@ A. Data files are included in the same folder along with the relevant code files
 `music_DA_10.R` (which outputs an Excel file with the results for Figure 2)
 
 ### To reproduce the results in Figures 3 and 4 in the paper:
+
+
 
 Open the folder named ‘blackfriday’ and run the R files in the following order:
 
