@@ -23,7 +23,6 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Setup
 
 
-A. 
 
 ### Install dependencies
 
