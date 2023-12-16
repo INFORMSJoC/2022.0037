@@ -1,12 +1,12 @@
-![image](https://github.com/Xiaopingliu2023/2022.0037/assets/152821419/da56278a-6964-493f-9e41-92372fff0323)
-# 2022.0037
-Cost-Effective Acquisition of First-Party Data for Business Analytics
-Cite
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+# Cost-Effective Acquisition of First-Party Data for Business Analytics
+## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
 Below is the BibTex for citing this snapshot of the repository.
-
+```
 @article{LiuLi2023,
 
   author =        {Xiaoping Liu and Xiao-Bai Li},
@@ -22,7 +22,7 @@ Below is the BibTex for citing this snapshot of the repository.
   url =           {https://github.com/INFORMSJoC/2022.0037},
   
 }  
-
+```
 Paper Title: Cost-Effective Acquisition of First-Party Data for Business Analytics
 
 INFORMS Journal on Computing
