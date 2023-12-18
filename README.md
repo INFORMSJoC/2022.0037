@@ -5,11 +5,13 @@ This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 ## Cite
+
+
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
 https://doi.org/10.1287/ijoc.2022.0037
 
 https://doi.org/10.1287/ijoc.2022.0037.cd
-
-To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
 Below is the BibTex for citing this snapshot of the repository.
 ```
